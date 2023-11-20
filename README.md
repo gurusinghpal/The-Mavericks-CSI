@@ -3,11 +3,17 @@
 ### Mavericks Force tracks down the location of the person asking for help during any type of natural disaster and sends help as soon as possible.
 ### Donations made at the Mavericks force are directed to an NGO which inturn provides the money to the families affected
 ### Screenshots:
-Home Page-
+#### Home Page-
 ![Alt text](https://github.com/gurusinghpal/The-Mavericks-CSI/blob/main/Screenshot%202023-11-20%20072915.png)
-Seek Help- 
+
+#### Seek Help- 
+
 ![Alt text](https://github.com/gurusinghpal/The-Mavericks-CSI/blob/main/Screenshot%202023-11-20%20073304.png)
-Volunteer-
+
+#### Volunteer-
+
 ![Alt text](https://github.com/gurusinghpal/The-Mavericks-CSI/blob/main/Screenshot%202023-11-20%20073050.png)
-Webinar- 
+
+#### Webinar- 
+
 ![Alt text](https://github.com/gurusinghpal/The-Mavericks-CSI/blob/main/Screenshot%202023-11-20%20073415.png)
